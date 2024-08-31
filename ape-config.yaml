@@ -1,1 +1,5 @@
 name: counter
+
+compile:
+  output_extra:
+     - ABI
